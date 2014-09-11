@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/flynn/pinkerton",
+	"ImportPath": "github.com/flynn-archive/pinkerton",
 	"GoVersion": "go1.3",
 	"Deps": [
 		{
@@ -56,6 +56,14 @@
 			"ImportPath": "github.com/flynn/go-docopt",
 			"Comment": "0.6.1-rc2-25-gc4d72bb",
 			"Rev": "c4d72bb6e19016aebcf611fe19376d46f85f1752"
+		},
+		{
+			"ImportPath": "github.com/flynn/pinkerton/registry",
+			"Rev": "ce417919297ac30bfac3336fda47d0ea2bb458e3"
+		},
+		{
+			"ImportPath": "github.com/flynn/pinkerton/store",
+			"Rev": "ce417919297ac30bfac3336fda47d0ea2bb458e3"
 		}
 	]
 }
